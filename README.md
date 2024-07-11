@@ -1,5 +1,8 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://mizzcode.io)
 # 💫 About Me:
+[![WASI-TECH](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=0004FF&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+Dhanu+N+Gunathilaka;I+am+a+Full-Stack+Developer;I+am+from+Sri+Lanka-is+Kegalle;Nice+to+Meet+You)](https://github.com/xDhanu)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">Find me : xDhanu</h1>
 <h3 align="center">Hello 👋, I'm Dhnau N Gunathilaka</h3>
 </br>
@@ -33,16 +36,21 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xDhanu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xDhanu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical).
+<div align=center>
+  <a href="https://github.com/Itxxwasi" title="WASI">
+  <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=xDhanu&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="WASI" />
+    </a>
+</div>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xDhanu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<br>
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="xDhanu" />
+</p>
 
 ---
 
